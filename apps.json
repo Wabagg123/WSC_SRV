@@ -21,28 +21,5 @@
     "version": "v1.0", 
     "zip_size": 1323089, 
     "zip_url": "https://hbb1.oscwii.org/hbb/danbo/danbo.zip"
-  },
-  {
-    "category": "Larsenv", 
-    "coder": "Dakotath", 
-    "contributors": "", 
-    "controllers": "w", 
-    "display_name": "Fuck you", 
-    "downloads": 0, 
-    "extra_directories": [], 
-    "extracted": 1983880, 
-    "icon_url": "https://oss-auth.dakotath.com/static/apps/gifs/fuckyou.gif", 
-    "internal_name": "fuckyou", 
-    "long_description": "fuckyou", 
-    "package_type": "dol", 
-    "rating": "", 
-    "release_date": 1605506400, 
-    "shop_title_id": "", 
-    "shop_title_version": "", 
-    "short_description": "My life", 
-    "updated": 1605506400, 
-    "version": "v1.0", 
-    "zip_size": 1323089, 
-    "zip_url": "https://hbb1.oscwii.org/hbb/danbo/danbo.zip"
   }
 ]

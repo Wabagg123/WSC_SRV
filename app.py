@@ -125,6 +125,10 @@ def browse():
 def keyword():
     return render_template('keyword.html')
 
+@app.route("/home")
+def home():
+    return render_template('home.html')
+
 
 @app.route("/category")
 def category():
